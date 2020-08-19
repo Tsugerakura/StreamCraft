@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Multi-Release-Jar: true
+Can-Set-Native-Method-Prefix: true
+Main-Class: pro.gravit.launcher.LauncherEngine
+
